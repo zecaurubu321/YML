@@ -1,0 +1,12 @@
+ nome: "Simulação"
+  linguagem: "YAML"
+  objetivo: "Organizar dados de configuração"
+
+aluno:
+  nome: "Leonardo"
+  turma: "2ª A DS"
+
+atividade:
+  etapa1: "Entender a lógica"
+  etapa2: "Planejar a codificação"
+  status: "Em andamento"
